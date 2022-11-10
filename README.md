@@ -3,7 +3,7 @@
 <h2>👨‍💻 Coursework Projects:</h2>
 
 - <b>Aerospace Control Systems Design Projects (AlgoExpert)</b>
-  - [Control of Swinging Platform](https://github.com/pratitk1/REPOURL)
+  - [Control of Swinging Platform](https://github.com/pratitk1/AE353_DP1)
 
 
 <h2> 🤳 Connect with me:</h2>
